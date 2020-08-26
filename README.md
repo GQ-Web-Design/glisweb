@@ -22,8 +22,8 @@ come software Open Source.
 
 ### installazione tramite FTP
 Il framework non include le dipendenze installate con composer, per cui se dovete utilizzare FTP per installarlo
-allora dovrete scaricare le dipendenze prima di effettuare l'upload. Scaricate GlisWeb in formato ZIP e scompattatelo,
-o clonate il repository, dopodiché lanciate composer localmente nella cartella dove si trova il file composer.json.
+allora dovrete scaricare le dipendenze prima di effettuare l'upload, le dipendenze sono disponibili qui (https://getcomposer.org/download/).
+Scaricate GlisWeb in formato ZIP e scompattatelo, o clonate il repository, dopodiché lanciate composer localmente nella cartella dove si trova il file composer.json.
 Quando l'installazione delle librerie sarà completata, potrete installare il framework sul vostro server tramite FTP.
 
 Una volta completato l'upload, utilizzate l'interfaccia fornita dal vostro provider per eseguire gli script SQL
